@@ -61,6 +61,7 @@ public class oAuthTest {
 		List<String> expectedList = Arrays.asList(courseTitle);
 		Assert.assertTrue(a.equals(expectedList));
 		System.out.println("Expected : " +expectedList);
+		System.out.println("Git Edit");
 	}
 
 }
